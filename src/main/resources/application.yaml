@@ -1,3 +1,8 @@
 spring:
   application:
     name: TelegramBotVPN
+
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/newdb
+
